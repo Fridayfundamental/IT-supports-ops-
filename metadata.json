@@ -1,0 +1,6 @@
+{
+  "name": "IT Support Specialist Hub",
+  "description": "Professional IT helpdesk operations center and interview portfolio featuring multichannel ticket lifecycle tracking, SLA timers, diagnostic runbooks, ITIL prioritization, and customer follow-up.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
